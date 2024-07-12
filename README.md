@@ -1,7 +1,5 @@
 # SpaGIC: Graph-informed clustering in spatial transcriptomics via self-supervised contrastive learning
 
-[![DOI](https://zenodo.org/badge/494373596.svg)](https://zenodo.org/badge/latestdoi/494373596)
-
 ![](https://github.com/xxx.jpg)
 
 ## Overview
@@ -24,7 +22,7 @@ You'll need to install the following packages in order to run the codes.
 * R==4.0.3
 
 ## Data availability
-
+DLPFC
 
 ## Citation
 Liu et al. 
